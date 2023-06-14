@@ -2,7 +2,6 @@
 
 Welcome to your Github repository for the Blockchain ND, in this repository you will find the boilerplate code for all the code exercises and code sessions.
 
-We are still working on this repository so if you find that a piece of code is missing please let us know submitting an issue using the waffle board: https://waffle.io/udacity/blockchain-nanodegree-issues.
 
 The repository is divided in Courses and the projects or code sessions that is being use in each Course.
 
